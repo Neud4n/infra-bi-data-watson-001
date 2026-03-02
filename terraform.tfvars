@@ -1,0 +1,7 @@
+resource_group_name = "watson-rg"
+location            = "eastus"
+environment         = "dev"
+team                = "BI-DATA"
+project             = "Watson"
+cost_center         = "123456"
+# kubernetes_version  = "1.28.3"
